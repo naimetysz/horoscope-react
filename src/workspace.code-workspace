@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "rc04_horoscope",
+			"path": "../../clarusway-repom/clarusway-03/clarusway-full-stack-tr-13-22/react/class-notes/rc04_horoscope"
+		},
+		{
+			"name": "horoscope-react",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
